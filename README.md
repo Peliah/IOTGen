@@ -1,4 +1,3 @@
-```
 # GenKonnect - Generator Remote and Optimization System 🚀⚡
 
 Welcome to the GenKonnect repository! This repository contains the source code and documentation for GenKonnect, an innovative solution for remotely managing and optimizing generators, built with React Native.
@@ -42,4 +41,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to adapt an
 Got questions or feedback? Reach out to us at [pelepoupa@gmail.com](mailto:pelepoupa@gmail.com) 📬.
 
 Thanks for your interest in GenKonnect! Your contributions and insights are warmly welcome. Let's revolutionize generator management together! 💡⚙️
-```
